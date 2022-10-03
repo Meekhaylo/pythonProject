@@ -1,5 +1,5 @@
-from addition import *
-from mymod import *
+from addition import multiply_func
+from mymod import count_lines, count_chars, test
 import sys
 
 print("\nHere goes task 1")
