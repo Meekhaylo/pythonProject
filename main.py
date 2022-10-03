@@ -1,5 +1,5 @@
-from secondary.addition import *
-from secondary.mymod import *
+from addition import *
+from mymod import *
 import sys
 
 print("\nHere goes task 1")
